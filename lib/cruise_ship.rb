@@ -17,7 +17,7 @@ winner = ""
   end
   winner
 end
-binding.pry
+
 
 
 
