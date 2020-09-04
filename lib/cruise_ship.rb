@@ -15,6 +15,7 @@ winner = ""
     winner = name
    end
   end
+  winner
 end
 binding.pry
 
