@@ -1,3 +1,5 @@
+require 'pry'
+
 passengers = {
 suite_a: "Amanda Presley",
 suite_b: "Seymour Hoffman",
@@ -13,3 +15,7 @@ passengers.each do |suite, name|
     winner = name
   end
 end
+binding.pry
+
+
+
